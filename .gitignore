@@ -1,0 +1,23 @@
+# OSX
+#
+.DS_Store
+
+# IntelliJ
+#
+.idea
+.vscode/
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# custom
+apps/
+*.log
+chromeDriver
+.tmp
+
+run/**/*.js
+*.js.map
+run/test/specs/to do 
+
